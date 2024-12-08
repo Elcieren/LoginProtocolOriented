@@ -7,5 +7,6 @@
 
    <details>
     <summary><h2>Detaylı Anlatim icin Medium Yazıma bakabilirsiniz</h2></summary>
-    👉 **[Medium Makalemi Okuyun](https://medium.com/@erenelci/swift-ile-protocol-oriented-programming-ve-mvvm-tasar%C4%B1m%C4%B1n%C4%B1n-uygulamal%C4%B1-anlat%C4%B1m-5b63f8f869d5)** 
+    👉 [Swift ile Protocol Oriented Programming ve MVVM Tasarımının Uygulamalı Anlatımı](https://medium.com/@erenelci/swift-ile-protocol-oriented-programming-ve-mvvm-tasar%C4%B1m%C4%B1n%C4%B1n-uygulamal%C4%B1-anlat%C4%B1m-5b63f8f869d5)
+
   </details>
